@@ -1,4 +1,4 @@
-package modelo;
+package org.iesalandalus.programacion.reinaajedrez.modelo;
 
 public enum Direccion {
 	 NORTE,
